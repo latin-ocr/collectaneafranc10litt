@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./collectaneafranc10litt_0002.png"; bbox 0 0 1955 3303; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 112 1071 1712 1075">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 112 1071 1712 1075">
+     <span class='ocr_line' id='line_1_1' title="bbox 112 1071 1712 1075; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 112 1071 1712 1075; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 542 1712 1305 1934">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 542 1712 1305 1940">
+     <span class='ocr_line' id='line_1_2' title="bbox 614 1712 1231 1824; baseline -0.107 -22"><span class='ocrx_word' id='word_1_2' title='bbox 614 1714 1020 1824; x_wconf 48' lang='lat' dir='ltr'>{ltntlmfflh</span> <span class='ocrx_word' id='word_1_3' title='bbox 1035 1712 1231 1795; x_wconf 46' lang='lat' dir='ltr'>sumt</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 542 1834 1305 1934; baseline -0.109 21"><span class='ocrx_word' id='word_1_4' title='bbox 542 1834 1055 1934; x_wconf 46' lang='lat' dir='ltr'>&amp;ssssffimzfurff</span> <span class='ocrx_word' id='word_1_5' title='bbox 1064 1834 1305 1925; x_wconf 54' lang='lat' dir='ltr'>Effunh</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1713 1075 1716 1996">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1713 1075 1716 1996">
+     <span class='ocr_line' id='line_1_4' title="bbox 1713 1075 1716 1996; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1713 1075 1716 1996; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 112 1080 117 1997">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 112 1080 117 1997">
+     <span class='ocr_line' id='line_1_5' title="bbox 112 1080 117 1997; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 112 1080 117 1997; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 126 1995 745 1998">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 126 1995 745 1998">
+     <span class='ocr_line' id='line_1_6' title="bbox 126 1995 745 1998; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 126 1995 745 1998; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 96 1058 1731 2009">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 96 1058 1731 2009">
+     <span class='ocr_line' id='line_1_7' title="bbox 96 1058 1731 2009; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 96 1058 1731 2009; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
